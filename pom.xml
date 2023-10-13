@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>spring-boot-training</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
